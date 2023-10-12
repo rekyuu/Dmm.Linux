@@ -24,9 +24,9 @@ public static class DmmApi
     private const string HardwareRejectEndpoint = "/v5/hardwarereject";
     private const string GetCookieEndpoint = "/getCookie";
 
-    private const string MacAddress = "1a:79:67:a8:a8:d2";
-    private const string HddSerial = "bbfcb7f0c882038c027ecc78296883e2d22b5153fd5872e4cd20f13426c5c498";
-    private const string Motherboard = "65e16cdf6953106b81e7b34535611d9de1b6d850fc931dff0535f1f7f7e50af8";
+    private const string MacAddress = "";
+    private const string HddSerial = "";
+    private const string Motherboard = "";
 
     private static readonly Dictionary<string, string> LoginHeaders = new()
     {
